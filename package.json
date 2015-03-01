@@ -1,0 +1,33 @@
+{
+  "name": "javascript-facts",
+  "version": "1.0.0",
+  "description": "Learn javascript with facts",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosgoce/javascript-facts"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "karma",
+    "test"
+  ],
+  "author": "Carlos Goce",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/carlosgoce/javascript-facts/issues"
+  },
+  "homepage": "https://github.com/carlosgoce/javascript-facts",
+  "private": true
+}
